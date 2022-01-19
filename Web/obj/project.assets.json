@@ -9874,6 +9874,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "DataAccess >= 1.0.0",
+      "Entities >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.1",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.1",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.1",
@@ -9884,19 +9885,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Acer\\.nuget\\packages\\": {}
+    "C:\\Users\\Aytac\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\ProductManagmentSystem\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\Aytac\\Desktop\\ProductManagmentSystem\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\Acer\\source\\repos\\ProductManagmentSystem\\Web\\Web.csproj",
-      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\source\\repos\\ProductManagmentSystem\\Web\\obj\\",
+      "projectPath": "C:\\Users\\Aytac\\Desktop\\ProductManagmentSystem\\Web\\Web.csproj",
+      "packagesPath": "C:\\Users\\Aytac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Aytac\\Desktop\\ProductManagmentSystem\\Web\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Aytac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9910,11 +9916,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Acer\\source\\repos\\ProductManagmentSystem\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Acer\\source\\repos\\ProductManagmentSystem\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\Aytac\\Desktop\\ProductManagmentSystem\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Aytac\\Desktop\\ProductManagmentSystem\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Acer\\source\\repos\\ProductManagmentSystem\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\Acer\\source\\repos\\ProductManagmentSystem\\Services\\Services.csproj"
+            "C:\\Users\\Aytac\\Desktop\\ProductManagmentSystem\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Aytac\\Desktop\\ProductManagmentSystem\\Entities\\Entities.csproj"
+            },
+            "C:\\Users\\Aytac\\Desktop\\ProductManagmentSystem\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\Aytac\\Desktop\\ProductManagmentSystem\\Services\\Services.csproj"
             }
           }
         }

@@ -8,65 +8,69 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Web
 build_property.RootNamespace = Web
-build_property.ProjectDir = C:\Users\Acer\source\repos\ProductManagmentSystem\Web\
+build_property.ProjectDir = C:\Users\Aytac\Desktop\ProductManagmentSystem\Web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Acer\source\repos\ProductManagmentSystem\Web
+build_property.MSBuildProjectDirectory = C:\Users\Aytac\Desktop\ProductManagmentSystem\Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Acer/source/repos/ProductManagmentSystem/Web/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/ProductManagmentSystem/Web/Areas/ProductAdmin/Views/Dashboard/Index.cshtml]
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Areas/ProductAdmin/Views/Dashboard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdEFkbWluXFZpZXdzXERhc2hib2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/ProductManagmentSystem/Web/Areas/ProductAdmin/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdEFkbWluXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Areas/ProductAdmin/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdEFkbWluXFZpZXdzXFByb2R1Y3RcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/ProductManagmentSystem/Web/Areas/ProductAdmin/Views/Shared/_LayoutAdmin.cshtml]
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Areas/ProductAdmin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdEFkbWluXFZpZXdzXFByb2R1Y3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Areas/ProductAdmin/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdEFkbWluXFZpZXdzXFNoYXJlZFxfTGF5b3V0QWRtaW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/ProductManagmentSystem/Web/Areas/ProductAdmin/Views/_ViewImports.cshtml]
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Areas/ProductAdmin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdEFkbWluXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/ProductManagmentSystem/Web/Areas/ProductAdmin/Views/_ViewStart.cshtml]
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Areas/ProductAdmin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUHJvZHVjdEFkbWluXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/ProductManagmentSystem/Web/Views/Home/Index.cshtml]
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/ProductManagmentSystem/Web/Views/Home/Privacy.cshtml]
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/ProductManagmentSystem/Web/Views/Shared/Error.cshtml]
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/ProductManagmentSystem/Web/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/ProductManagmentSystem/Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/ProductManagmentSystem/Web/Views/_ViewImports.cshtml]
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/ProductManagmentSystem/Web/Views/_ViewStart.cshtml]
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Acer/source/repos/ProductManagmentSystem/Web/Views/Shared/_Layout.cshtml]
+[C:/Users/Aytac/Desktop/ProductManagmentSystem/Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lzldzk1rll

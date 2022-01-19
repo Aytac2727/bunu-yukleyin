@@ -9,6 +9,7 @@
       "Web/1.0.0": {
         "dependencies": {
           "DataAccess": "1.0.0",
+          "Entities": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.1",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.1",
           "Microsoft.AspNetCore.Identity.UI": "6.0.1",

@@ -9,9 +9,11 @@ namespace Entities
 {
     public class Product:BaseEntity
     {
+        [Required(ErrorMessage ="Ad hissesini doldur")]
         [MaxLength(100)]
         public string name { get; set; }
         public string Description { get; set; }
+        [Range(0, 999.99,ErrorMessage ="Qiymet daxil et")]
         public decimal Price { get; set; }
         public ushort InStock { get; set; }
         public string PhotoUrl { get; set; }
@@ -19,11 +21,9 @@ namespace Entities
         public string SKU { get; set; }
         public DateTime  PublishDate { get; set; }
         public string Barcode { get; set; }
+        [Display(Name = "Kateqoriya")]
+
         public int CategoryId { get; set; }
         public virtual Category Category { get; set; }
-
-
-
-
     }
 }
